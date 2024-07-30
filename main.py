@@ -44,7 +44,7 @@ def get_report(storage_key: str):
     except Exception as ex:
         return error_proxy.create_error_response(app, f"Ошибка при формировании отчета {ex}", 500)
 
-# Отчетность
+# Отчетность бла бла бла
 
 # Складские операции
 
